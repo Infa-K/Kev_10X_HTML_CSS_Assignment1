@@ -5,3 +5,46 @@
 width: 100%;
 height: 100%;
 }
+
+.row
+{
+    width:100%;
+    display: inline-block;
+}
+
+.column1
+{
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+
+.column2
+{
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+#image1
+{
+    width: 500px;
+    height: 500px;
+}
+
+#image2
+{
+    width: 500px;
+    height: 500px;
+}
+
+#text
+{
+    text-align: center;
+    margin-top: 250px;
+}
+
+body
+{
+    background-color: bisque;
+}
